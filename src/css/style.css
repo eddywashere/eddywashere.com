@@ -52,7 +52,7 @@ article.markdown {
   position: relative;
 }
 
-article.markdown > *:not(pre):not(code):not(.stretch) {
+article.markdown > *:not(pre):not(.gatsby-highlight):not(.stretch) {
   max-width: 820px;
   width: 100%;
   margin-left: auto;
